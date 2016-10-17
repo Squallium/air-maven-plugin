@@ -25,6 +25,9 @@
                         </goals>
                     </execution>
                 </executions>
+                <configuration>
+                    <greeting>Welcome</greeting>
+                </configuration>
             </plugin>
         </plugins>
     </build>
